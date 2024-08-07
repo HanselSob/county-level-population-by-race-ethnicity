@@ -40,6 +40,11 @@ sklearn:
 Machine learning library for Python.
 Provides simple and efficient tools for data mining and data analysis, including both supervised and unsupervised learning algorithms.
 
-###
+### Graphs
 
-![alt text](image.png)
+Demographic Distribution Across States
+
+
+![](demographic-distribution-across-states.png)
+
+
