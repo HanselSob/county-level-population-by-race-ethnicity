@@ -43,8 +43,11 @@ Provides simple and efficient tools for data mining and data analysis, including
 ## Graphs Generated
 
 Demographic Distribution Across States
-
-
 ![](demographic-distribution-across-states.png)
 
 
+Demographic Distribution Across Top Counties
+![](demographic-distribution-across-states-across-top-counties.png)
+
+
+![](year-by-year-precent-change-in-population.png)
