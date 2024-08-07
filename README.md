@@ -20,9 +20,7 @@ Use the below pip install to install the libraries
 
 ---
 
-## Documentation
-
-### Libraries Used
+## Libraries Used
 
 pandas (pd):
 Data manipulation and analysis library for Python.
@@ -40,7 +38,9 @@ sklearn:
 Machine learning library for Python.
 Provides simple and efficient tools for data mining and data analysis, including both supervised and unsupervised learning algorithms.
 
-### Graphs
+---
+
+## Graphs Generated
 
 Demographic Distribution Across States
 
