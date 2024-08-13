@@ -22,19 +22,19 @@ Use the below pip install to install the libraries
 
 ## Libraries Used
 
-pandas (pd):
+**pandas (pd):**
 Data manipulation and analysis library for Python.
 Provides data structures like DataFrames and Series for handling and analyzing structured data.
 
-matplotlib.pyplot (plt):
+**matplotlib.pyplot (plt):**
 Library for creating static, animated, and interactive visualizations in Python.
 pyplot is a module in matplotlib that provides a MATLAB-like interface for creating plots and charts.
 
-seaborn (sns):
+**seaborn (sns):**
 Statistical data visualization library based on matplotlib.
 Provides a high-level interface for drawing attractive and informative statistical graphics.
 
-sklearn:
+**sklearn:**
 Machine learning library for Python.
 Provides simple and efficient tools for data mining and data analysis, including both supervised and unsupervised learning algorithms.
 
@@ -42,12 +42,12 @@ Provides simple and efficient tools for data mining and data analysis, including
 
 ## Graphs Generated
 
-Demographic Distribution Across States
+
 ![](demographic-distribution-across-states.png)
 
 
-Demographic Distribution Across Top Counties
 ![](demographic-distribution-across-states-across-top-counties.png)
 
 
 ![](year-by-year-precent-change-in-population.png)
+
